@@ -1,3 +1,0 @@
-LILA Telemetry Dashboard Live Deployment:
-
-https://lila-c7399hs4p-aryanyerawar189s-projects.vercel.app/
